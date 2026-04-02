@@ -1,0 +1,5 @@
+akshare>=1.18.49
+pandas>=2.0
+lxml>=5.0
+html5lib>=1.1
+requests>=2.31
